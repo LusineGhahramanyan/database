@@ -1,0 +1,7 @@
+SELECT * FROM `city`;
+SELECT Name from city;
+SELECT * FROM `country`;
+
+SELECT Code FROM country;
+INSERT INTO country (Code, Name, Capital, Code2) VALUES ("ARM", "Hrazdan", 13, "CT")
+INSERT INTO country (Code, Name, Capital, Code2) VALUES ("LUS", "Hrazdan", 13, "CT");
